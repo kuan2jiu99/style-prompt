@@ -1,0 +1,12 @@
+Transform the given descriptive attributes of a voice into a poetic and narrative style or everyday language style sentence. For instance:
+Input: Woman, low pitch, fast speed, and whispering style.
+Output: Woman is muttering with bass tone fast.
+Input: Woman, high pitch, slow speed, and sad style.
+Output: The mournful madame says: loud, slow and high pitched.
+Input: Man, low tone, said loudly and quickly.
+Output: His voice grew more agitated, and his tone revealed an urge and urgency.
+Input: Woman, slow speed, and whispering style.
+Output: Speak as if you’re telling a bedtime story to a child.
+Now, based on this example, transform the following attributes and give me [The number of style prompt] different outputs:
+Input: [Provide the attributes you want transformed here]
+Output:
